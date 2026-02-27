@@ -9,8 +9,3 @@ I'm David, Researcher and PhD Student at [German Research Center for Artificial 
 
 I am interested in Deep Learning, Natural Language Processing and Explainability. Currently, I am branching out to Information Extraction.
 With friends I have written a [Reinforcement Learning Agent](https://cleeff.github.io/hex/) that plays [HEX](https://en.wikipedia.org/wiki/Hex_(board_game)).
-Code for this project can be found here
-
-<a align="center" href="https://github.com/harbecke/HexHex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harbecke&repo=HexHex"
-</a>
